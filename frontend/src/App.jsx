@@ -163,7 +163,6 @@ function App() {
     <>
       <div>
         <h1>Phonebook</h1>
-        <h1>Deployment test!!!</h1>
         <Message message={message} />
 
         <Filter onFilterChange={handleFilterChange} />
